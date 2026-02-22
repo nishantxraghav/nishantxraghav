@@ -1,4 +1,11 @@
-# About Me: 🛠 I’m currently working on<br>Building with Generative AI — experimenting with LLM apps, AI-powered tools, and turning ideas into working prototypes.<br><br>🤝 I’m looking to collaborate on<br>Open-source GenAI projects, creative AI applications, and anything that blends intelligence with real-world impact.<br><br>🆘 I’m looking for help with<br>LLM fine-tuning, RAG pipelines, model deployment, and scaling AI products from prototype → production.<br><br>🌱 I’m currently learning<br>DSA in C++ • Full-stack development • Deep dive into how LLMs, embeddings, and vector databases actually work.<br><br>💬 Ask me about<br>GenAI workflows, AI project building, learning in public, and staying consistent with code. ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nishantraghav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantxraghav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nishantxraghav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantxraghav@gmail.com) # 💻 Tech Stack:
+#  About Me:
+🛠 I’m currently working on<br>Building with Generative AI — experimenting with LLM apps, AI-powered tools, and turning ideas into working prototypes.<br><br>🤝 I’m looking to collaborate on<br>Open-source GenAI projects, creative AI applications, and anything that blends intelligence with real-world impact.<br><br>🆘 I’m looking for help with<br>LLM fine-tuning, RAG pipelines, model deployment, and scaling AI products from prototype → production.<br><br>🌱 I’m currently learning<br>DSA in C++ • Full-stack development • Deep dive into how LLMs, embeddings, and vector databases actually work.<br><br>💬 Ask me about<br>GenAI workflows, AI project building, learning in public, and staying consistent with code.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nishantraghav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishantxraghav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nishantxraghav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantxraghav@gmail.com) 
+
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -25,4 +32,14 @@
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=nishantxraghav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nishantxraghav&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantxraghav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ## 💰 You can help me by Donating [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nishantxraghav) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nishantxraghav) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nishantxraghav) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nishantxraghav) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nishantxraghav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nishantxraghav&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantxraghav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nishantxraghav) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nishantxraghav) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nishantxraghav) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nishantxraghav)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
